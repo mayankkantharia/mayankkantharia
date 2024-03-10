@@ -1,4 +1,4 @@
-![logo](https://github.com/mayankkantharia/mayankkantharia/blob/main/Github%20Banner.png)
+![logo](https://github.com/mayankkantharia/mayankkantharia/blob/main/Data%20Scientist.png)
 <h1 align="center">Hi 👋, I'm Mayank Kantharia</h1> 
 <h3 align="center">A self-motivated Computer Engineer. Keen to explore and learn skills that add value to my personal and professional development.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankkantharia&label=Profile%20views&color=0e75b6&style=flat" alt="mayankkantharia" /> </p>
