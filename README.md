@@ -13,7 +13,6 @@
   
 </div>
 
----
 
 ## 📫 Connect With Me
 
@@ -26,7 +25,7 @@
   </a>
 </p>
 
----
+
 
 ## 🚀 About Me
 
@@ -35,12 +34,10 @@
 - 🔍 Focused on **ML Engineering, NLP, RAG, vector search, and cloud-native ML**
 - 💬 Ask me about **Python, SQL, FastAPI, ML/NLP, ETL pipelines, Docker, AWS**
 
----
+
 
 # 🛠️ Technical Skills  
-*(Synced with my portfolio website)*
 
----
 
 ## 🤖 Machine Learning & AI
 <p align="left">
@@ -54,7 +51,7 @@
   <img src="https://img.shields.io/badge/Seaborn-30B7F5?logo=seaborn&logoColor=white">
 </p>
 
----
+
 
 ## 🧠 NLP & Information Retrieval
 <p align="left">
@@ -63,8 +60,6 @@
   <img src="https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/pgvector-4169E1?logo=postgresql&logoColor=white">
 </p>
-
----
 
 ## ☁️ Data Engineering & Cloud
 <p align="left">
@@ -77,7 +72,7 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white">
 </p>
 
----
+
 
 ## 🗄️ Databases
 <p align="left">
@@ -86,7 +81,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
 </p>
 
----
+
 
 ## ⚙️ Backend & APIs
 <p align="left">
@@ -96,7 +91,7 @@
   <img src="https://img.shields.io/badge/REST_APIs-005571?logo=api&logoColor=white">
 </p>
 
----
+
 
 ## 🧰 Tools & Platforms
 <p align="left">
@@ -106,7 +101,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white">
 </p>
 
----
+
 
 ## 📈 GitHub Analytics
 
@@ -120,7 +115,6 @@
 
 </div>
 
----
 
 <div align="center">
   
