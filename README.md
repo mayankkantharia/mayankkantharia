@@ -1,11 +1,3 @@
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-
-
 ![Data Science Banner](https://github.com/mayankkantharia/mayankkantharia/blob/main/Data%20Scientist.png)
 
 <h1 align="center">👋 Hey, I'm Mayank Kantharia</h1>
